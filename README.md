@@ -1,15 +1,13 @@
-![vistascripts.js](logo_vsjs.png)
+# MOFHScript
 
----
-
-``vistascripts.js`` offers new ways to customize your VistaPanel. 
+MOFHScript is a JavaScript library for specfically customizing VistaPanel.
 
 ## How to install
 Login to your MyOwnFreeHost account & click "Your Adverts", and then "Control Panel Advert Control", select your domain and copy & paste the code below: 
 
 ### Load the initial code
 ```js
-<script src="https://cdn.jsdelivr.net/gh/GenApplications/vistascripts.js/vistascripts.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/MOFHCommunity/MOFHScript/mofhscript-lib.js"></script>
 ```
 ### Example code for changing logo to remote URL
 ```js
